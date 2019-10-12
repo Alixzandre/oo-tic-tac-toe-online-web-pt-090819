@@ -69,6 +69,9 @@ class TicTacToe
   end
   
   def won?
-    WIN_COMBINATIONS.each
+    
+    winner = nil 
+    
+    WIN_COMBINATIONS.each 
   end
 end
