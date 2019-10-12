@@ -72,7 +72,7 @@ class TicTacToe
     
     winner = nil 
     
-    WIN_COMBINATIONS.each do combo
+    WIN_COMBINATIONS.each do |combo|
     
     
   end
