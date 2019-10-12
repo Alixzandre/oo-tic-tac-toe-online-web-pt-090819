@@ -74,5 +74,22 @@ class TicTacToe
     
     WIN_COMBINATIONS.each do combo
     
+    
+  end
+  
+  def full?
+    turn_count == 9
+  end
+  
+  def draw?
+    
+  end
+  
+  def over?
+    
+  end
+  
+  def winner
+    
   end
 end
